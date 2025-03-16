@@ -1,0 +1,6 @@
+@WebAppBot_HostAddress = http://localhost:5094
+
+GET https://miniapp.nikolay2k.ru/bot/setWebhook
+Accept: application/json
+
+###
